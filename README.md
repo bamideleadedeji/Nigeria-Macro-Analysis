@@ -12,18 +12,18 @@ This repository contains the quantitative models and data visualizations support
 The analysis utilizes **Time-Series Regression**, **Pearson Correlation**, and the **Chow Test for Structural Breaks**. It bridges the 2016 liquidity crisis with the 2023–2025 fiscal shocks, identifying the **"Paradox Zone"** where traditional monetary transmission mechanisms fail.
 
 ## **Core Research Evidence (Visuals)**
-Click the links below to view the high-resolution econometric dashboards:
+*Click the links below to view the high-resolution econometric dashboards:*
 
-*  **[Figure 1: Long-Term Inflation Trend (2003-2025)](Results/inflation_trend_2003_2025.png)**
-*  **[Figure 2: Systemic Risk & Volatility Clusters](Results/systemic_risk_volatility.png)**
-*  **[Figure 3: Liquidity Decay Index](Results/liquidity_decay.png)**
-*  **[Figure 4: The Merchant Bank Paradox Nexus](Results/merchant_bank_paradox_final.png)**
+*  **[Figure 1: Long-Term Inflation Trend (2003-2025)](inflation_trend_2003_2025.png)**
+*  **[Figure 2: Systemic Risk & Volatility Clusters](systemic_risk_volatility.png)**
+*  **[Figure 3: Liquidity Decay Index](liquidity_decay.png)**
+*  **[Figure 4: The Merchant Bank Paradox Nexus](merchant_bank_paradox_final.png)**
 
 ## **Repository Structure**
-* **Data/**: Cleaned time-series dataset (`cleaned_inflation_data.csv`).
-* **Results/**: Exported high-resolution (.png) figures for journal submission.
+* **cleaned_inflation_data.csv**: Cleaned time-series dataset.
 * **Nigeria_Macro_Analysis.ipynb**: Updated Jupyter Notebook with Python code and Chow Test results.
 * **requirements.txt**: Environment setup for computational reproducibility.
+* **LICENSE**: MIT Open Source License.
 
 ---
 **Author:** Adedeji Bamidele, M.Sc.  
