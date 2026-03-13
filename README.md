@@ -1,6 +1,6 @@
 # Nigeria Macro-Economic Stability Analysis (2002–2025)
 
-This repository contains the quantitative models and data visualizations supporting the research paper: **"The Merchant Bank Paradox: An Econometric Assessment of Structural Breaks in Monetary Transmission and Labor-Induced Institutional Decay in Nigeria (2002–2025):"**
+This repository contains the quantitative models and data visualizations supporting the research paper: **"The Merchant Bank Paradox: An Econometric Assessment of Structural Breaks in Monetary Transmission and Labor-Induced Institutional Decay in Nigeria (2002–2025):This repository supports the manuscript submitted to the CBN Journal of Applied Statistics (JAS)."**
 
 ## **Key Research Metrics**
 * **Merchant Bank Paradox:** Modeled institutional correlation ($r = 0.9977$) during structural volatility clusters.
